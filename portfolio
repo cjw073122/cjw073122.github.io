@@ -1,0 +1,22 @@
+</style>
+<title>pp</title> </head>
+<body>
+<header>
+<h2>최지완 포트폴리오</h2> </header>
+<nav>
+<ul>
+<li id="home"></li> <li id="intro">안녕하세요</li> <li id="server"></li> </ul></nav>
+<section id="displayArea">
+<p>안녕하세요. 비즈니스일본어학과 최지완입니다.</p>
+<p>こんにちは。ビジネス日本語学科のチェ·ジワンです。</p>
+<li>자격증</li><li>동아리활동</li>
+</section>
+<aside>
+<ul>
+<a href="https://instagram.com/jiwan.coe?igshid=ZDc4ODBmNjlmNQ==" target="_blank">instargram</a><br/>
+<a href="https://github.com/cjw073122/cjw073122.github.io" target="_blank">github</a><br/>
+
+</ul>
+</aside>
+<footer>
+<p>&copy; 2023 Made by Korea. All rights reserved.</p> </footer> </body></html>
